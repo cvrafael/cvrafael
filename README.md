@@ -1,7 +1,7 @@
 ### Hi colleague, my name is Caio 👋
 
-- 🔭 Atualmente estou trabalhando como ASSISTENTE DE ANALISTA DE SISTEMAS
-- 🌱 Atualmente estou aprendendo NODE.JS / REACT.JS / NEXT.JS
+- 🔭 Atualmente estou trabalhando como ASSISTENTE DE ENGENHARIA DE TESTES ll
+- 🌱 Atualmente estou aprendendo NODE.JS / REACT.JS / PYTHON
 
 ### Contatos:
 
